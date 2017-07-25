@@ -1,0 +1,20 @@
+{
+  "name": "scb-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel blabalbla",
+    "build-typescript": "tsc",
+    "build-webpack": "webpack"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.68",
+    "awesome-typescript-loader": "^3.2.1",
+    "source-map-loader": "^0.2.1",
+    "typescript": "^2.4.1",
+    "webpack": "^3.1.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
